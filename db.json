@@ -1,0 +1,105 @@
+{
+  "owners": [
+    {
+      "prefix": "",
+      "firstName": "",
+      "middleName": "",
+      "lastName": "",
+      "permanentAddress": "",
+      "dateofBirth": "",
+      "ssn": "",
+      "id": 1
+    },
+    {
+      "prefix": "",
+      "firstName": "",
+      "middleName": "",
+      "lastName": "",
+      "permanentAddress": "",
+      "dateofBirth": "",
+      "ssn": "",
+      "id": 2
+    }
+  ],
+  "getting_started": {
+    "Application_CRDA": "",
+    "appcompletedinUS": "",
+    "ownerOtherThanPI": "",
+    "product": "",
+    "niprNum": "",
+    "preAmount": "$",
+    "faceAmount": "$",
+    "illustrationPDF": "",
+    "premiumMode": ""
+  },
+  "proposed_Insured": {
+    "prefix": "",
+    "firstName": "",
+    "middleName": "",
+    "lastName": "",
+    "permanentAddress": "",
+    "dateofBirth": "",
+    "ssn": ""
+  },
+  "existingApplied": {
+    "a_InforceNAppliedfor": "",
+    "a_OffPaymtInd_PINS": "",
+    "a_OwnSoldTransLifeInd": ""
+  },
+  "premium": {
+    "premium_payors": "",
+    "paymentMode": ""
+  },
+  "gettingStarted_Error": {
+    "premium_payors": "",
+    "paymentMode": "",
+    "Application_CRDA": "",
+    "appcompletedinUS": "",
+    "ownerOtherThanPI": "",
+    "product": "",
+    "niprNum": "",
+    "preAmount": "",
+    "faceAmount": "",
+    "illustrationPDF": "",
+    "premiumMode": "",
+    "lumpsum": "",
+    "singlePremium": ""
+  },
+  "proposed_Insured_Error": {
+    "firstName": "",
+    "lastName": "",
+    "permanentAddress": "",
+    "dateofBirth": "",
+    "ssn": "",
+    "prefix": "",
+    "middleName": ""
+  },
+  "owner_Error": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "permanentAddress": "",
+      "dateofBirth": "",
+      "ssn": "",
+      "prefix": "",
+      "middleName": "",
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "permanentAddress": "",
+      "dateofBirth": "",
+      "ssn": "",
+      "prefix": "",
+      "middleName": "",
+      "id": 2
+    }
+  ],
+  "existingApplied_Error": {
+    "a_InforceNAppliedfor": "",
+    "a_OffPaymtInd_PINS": "",
+    "a_OwnSoldTransLifeInd": ""
+  },
+  "premium_Error": {}
+}
